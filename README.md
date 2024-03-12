@@ -1,1 +1,3 @@
-# Repository-praktikum-algoritma-dan-struktur-data
+Nama : Maxwell Tumpal Sidabutar
+NIM : 2211102137
+Kelas : S1IF11-E
