@@ -14,3 +14,6 @@ guided 2
 guided 3
 
 ![image](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/f09ff58d-5711-4143-ab8b-d33e15171f87)
+
+unguided 1
+![image](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/e1213837-3d8c-439c-b30f-431038960940)
