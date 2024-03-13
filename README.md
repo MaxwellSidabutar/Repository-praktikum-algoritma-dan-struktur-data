@@ -19,7 +19,11 @@ unguided 1
 ![image](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/e1213837-3d8c-439c-b30f-431038960940)
 
 Program ini menghitung luas segitiga dengan rumus (alas * tinggi) / 2.
+
 Fungsi hitungLuasSegitiga digunakan untuk melakukan perhitungan luas.
+
 Variabel alas dan tinggi dideklarasikan sebagai tipe data primitif double.
+
 Hasil perhitungan luas disimpan dalam variabel luas.
+
 Hasil luas segitiga ditampilkan di layar menggunakan std::cout.
