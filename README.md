@@ -22,7 +22,7 @@ Program ini menghitung luas segitiga dengan rumus (alas * tinggi) / 2.
 
 Fungsi hitungLuasSegitiga digunakan untuk melakukan perhitungan luas.
 
-Variabel alas dan tinggi dideklarasikan sebagai tipe data primitif double.
+Variabel alas dan tinggi dideklarasikan sebagai tipe data primitif double dan int.
 
 Hasil perhitungan luas disimpan dalam variabel luas.
 
