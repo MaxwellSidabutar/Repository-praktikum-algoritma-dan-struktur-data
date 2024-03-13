@@ -37,3 +37,8 @@ Mendefinisikan Data Member: Dalam class, kita dapat mendefinisikan variabel (dat
 Mendefinisikan Member Functions: Kita dapat menambahkan fungsi (member functions) ke dalam class untuk menggambarkan perilaku objek.
 Inheritance: Class mendukung konsep pewarisan, di mana kita dapat membuat class baru berdasarkan class yang sudah ada.                
 Encapsulation: Class memungkinkan kita untuk mengenkapsulasi data dan fungsi terkait dalam satu unit.
+
+Struct adalah konstruksi yang mirip dengan class, tetapi lebih sederhana. Struct juga digunakan untuk menggambarkan objek, tetapi tidak mendukung fitur seperti inheritance dan encapsulation.
+Perbedaan dengan Class:
+Constructor: Struct hanya mengizinkan konstruktor dengan argumen, sedangkan class memungkinkan konstruktor dengan atau tanpa argumen.
+Deklarasi Data Member: Data member dalam struct secara default memiliki hak akses public, sedangkan dalam class secara default memiliki hak akses private
