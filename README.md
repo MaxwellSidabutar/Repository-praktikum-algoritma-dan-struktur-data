@@ -38,7 +38,26 @@ Mendefinisikan Member Functions: Kita dapat menambahkan fungsi (member functions
 Inheritance: Class mendukung konsep pewarisan, di mana kita dapat membuat class baru berdasarkan class yang sudah ada.                
 Encapsulation: Class memungkinkan kita untuk mengenkapsulasi data dan fungsi terkait dalam satu unit.
 
-Struct adalah konstruksi yang mirip dengan class, tetapi lebih sederhana. Struct juga digunakan untuk menggambarkan objek, tetapi tidak mendukung fitur seperti inheritance dan encapsulation.
-Perbedaan dengan Class:
-Constructor: Struct hanya mengizinkan konstruktor dengan argumen, sedangkan class memungkinkan konstruktor dengan atau tanpa argumen.
-Deklarasi Data Member: Data member dalam struct secara default memiliki hak akses public, sedangkan dalam class secara default memiliki hak akses private
+Struct adalah konstruksi yang mirip dengan class, tetapi lebih sederhana. Struct juga digunakan untuk menggambarkan objek, tetapi tidak mendukung fitur seperti inheritance dan encapsulation.                                                                                                                      
+Perbedaan dengan Class:                                                                                                                
+Constructor : Struct hanya mengizinkan konstruktor dengan argumen, sedangkan class memungkinkan konstruktor dengan atau tanpa argumen.        
+Deklarasi Data Member : Data member dalam struct secara default memiliki hak akses public, sedangkan dalam class secara default memiliki hak akses private
+
+unguided 3
+![image](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/a9cf39ed-c2a8-4cff-b984-54b984c241fe)
+
+Dalam program di atas, map digunakan untuk menyimpan pasangan nilai di mana setiap kunci (key) unik dan terasosiasi dengan sebuah nilai (value). Fungsi map memungkinkan kita untuk mengakses nilai berdasarkan kunci dengan cepat.                                                                                                
+Perbedaan utama antara array dan map adalah:
+
+Array:                                                                                                                                          
+- Elemen-elemen disimpan dalam urutan yang berurutan dan diakses menggunakan indeks.
+- Semua elemen harus bertipe data yang sama.
+- Ukuran array harus ditentukan pada saat kompilasi dan tidak dapat diubah.
+                                                                                   
+Map:                                                                                                                                 
+- Elemen-elemen disimpan sebagai pasangan kunci-nilai.
+- Kunci harus unik dan tidak perlu berurutan.
+- Tipe data kunci dan nilai bisa berbeda.
+- Ukuran map dapat berubah-ubah; elemen dapat ditambahkan atau dihapus.
+
+Map sangat berguna ketika kita membutuhkan struktur data yang dapat menyesuaikan ukurannya secara dinamis dan menyediakan akses cepat berdasarkan kunci. Sedangkan array lebih cocok untuk kasus-kasus di mana kita membutuhkan akses sekuensial yang cepat dan ukuran koleksi diketahui dan tetap.
