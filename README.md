@@ -27,3 +27,13 @@ Variabel alas dan tinggi dideklarasikan sebagai tipe data primitif double dan in
 Hasil perhitungan luas disimpan dalam variabel luas.
 
 Hasil luas segitiga ditampilkan di layar menggunakan std::cout.
+
+unguided 2
+![image](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/0bea2cce-dfc2-46a9-9ce8-71c9307fb6e8)
+
+Class adalah konstruksi yang memungkinkan kita untuk membungkus data dan fungsi terkait ke dalam satu entitas. Class digunakan untuk menggambarkan objek dan perilaku mereka
+
+Mendefinisikan Data Member: Dalam class, kita dapat mendefinisikan variabel (data member) yang menyimpan informasi tentang objek.
+Mendefinisikan Member Functions: Kita dapat menambahkan fungsi (member functions) ke dalam class untuk menggambarkan perilaku objek.
+Inheritance: Class mendukung konsep pewarisan, di mana kita dapat membuat class baru berdasarkan class yang sudah ada.                
+Encapsulation: Class memungkinkan kita untuk mengenkapsulasi data dan fungsi terkait dalam satu unit.
