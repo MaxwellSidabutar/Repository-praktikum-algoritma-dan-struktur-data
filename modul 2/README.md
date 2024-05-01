@@ -6,7 +6,7 @@ Laprak 2
 
 guided 1
 
-![image](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/89ba3321-ccc4-4794-83ae-7089f833347e)
+![image](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/c49d3894-dd08-4600-bc9a-258a8e141b87)
 
 guided 2
 
