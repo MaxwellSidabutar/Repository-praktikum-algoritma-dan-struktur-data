@@ -19,8 +19,11 @@ unguided 1
 Program C++ ini dirancang untuk melakukan beberapa tugas:
 
 Mengumpulkan Data: Program memulai dengan meminta pengguna untuk memasukkan jumlah elemen yang akan disimpan dalam array. Pengguna diminta untuk memasukkan bilangan bulat ini satu per satu.
+
 Penyimpanan Data: Semua bilangan bulat yang dimasukkan oleh pengguna disimpan dalam std::vector<int> yang disebut data. std::vector adalah wadah yang sangat fleksibel dan dapat digunakan untuk menyimpan kumpulan elemen.
+
 Menampilkan Data: Setelah semua data dimasukkan, program menampilkan kembali array tersebut ke pengguna dengan pesan “Data Array:”.
+
 Pemisahan Nomor Genap dan Ganjil:
 Program kemudian menggunakan loop untuk melewati setiap elemen dalam vector.
 Untuk setiap elemen, program memeriksa apakah elemen tersebut genap atau ganjil.
