@@ -14,3 +14,4 @@ GUIDED 2
 
 UNGUIDED
 ![image](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/dda69234-b073-47d0-8bdc-40ec27778380)
+![image](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/e034590f-f45f-4fa6-8911-437a7a2e0920)
