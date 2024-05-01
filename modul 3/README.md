@@ -21,19 +21,32 @@ UNGUIDED 1
 Program di atas adalah implementasi dari sebuah linked list yang menyimpan data mahasiswa.
 
 Struct Node: Mendefinisikan struktur data untuk node dalam linked list. Setiap node memiliki dua data: nama (nama) dan usia (usia), serta pointer next untuk menunjukkan node berikutnya dalam linked list.
+
 Class LinkedList: Kelas ini mengimplementasikan linked list dan menyediakan fungsi-fungsi untuk operasi-operasi seperti menambahkan node di depan, di belakang, di tengah, menghapus node, memperbarui node, dan menampilkan isi linked list.
+
 insertFront: Menambahkan node baru di depan linked list.
+
 insertEnd: Menambahkan node baru di akhir linked list.
+
 insertAfter: Menambahkan node baru setelah node dengan nama tertentu.
+
 removeNode: Menghapus node berdasarkan nama.
+
 updateNode: Memperbarui data node berdasarkan nama.
+
 displayList: Menampilkan semua data dalam linked list.
+
 Main Function: Fungsi utama (main) inisialisasi objek dari kelas LinkedList, kemudian melakukan operasi-operasi seperti:
 Menambahkan beberapa data awal dengan menggunakan method insertFront dan insertEnd.
+
 Menghapus data dengan nama "Akechi" menggunakan method removeNode.
+
 Menambahkan data "Futaba" setelah data "John" menggunakan method insertAfter.
+
 Menambahkan data "Igor" di depan linked list menggunakan method insertFront.
+
 Memperbarui data "Michael" menjadi "Reyn" dan usianya menjadi 18 menggunakan method updateNode.
+
 Menampilkan semua data dalam linked list menggunakan method displayList.
 
 UNGUIDED 2
