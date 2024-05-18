@@ -27,10 +27,13 @@ Jika antrian penuh, fungsi akan menampilkan pesan "Antrian penuh".
 Jika antrian kosong, elemen akan ditambahkan ke posisi pertama dan front serta back akan di-update.
 Jika antrian tidak kosong, elemen akan ditambahkan ke posisi yang ditunjukkan oleh back dan nilai back akan ditambah satu.
 
+unguided 1
 
 ![WhatsApp Image 2024-05-18 at 18 12 32_c64ab33a](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/ccdc92ca-2a6f-4583-be10-e7d4a74bd925)
 
 1. mengubah penerapan konsep queue pada bagian guided dari array menjadi linked list
+
+unguided 2
 
 ![WhatsApp Image 2024-05-18 at 18 06 53_8629509c](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/f4c50a49-f4b0-4203-8957-38de453b1a43)
 
