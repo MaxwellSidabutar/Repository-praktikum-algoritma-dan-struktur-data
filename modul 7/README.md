@@ -14,4 +14,15 @@ front dan back adalah indeks yang digunakan untuk melacak bagian depan dan belak
 queueTeller adalah array yang digunakan untuk menyimpan elemen-elemen dalam antrian.
 
 Definisi Fungsi
-isFull
+isFull, isEmpty dan enqueueAntrian
+
+Fungsi isFull ini mengecek apakah antrian sudah penuh dengan membandingkan nilai back dengan maksimalQueue
+
+Fungsi isEmpty ini mengecek apakah antrian kosong dengan melihat apakah nilai back sama dengan nol.
+
+Fungsi enqueueAntrian
+
+Fungsi ini menambahkan elemen ke dalam antrian.
+Jika antrian penuh, fungsi akan menampilkan pesan "Antrian penuh".
+Jika antrian kosong, elemen akan ditambahkan ke posisi pertama dan front serta back akan di-update.
+Jika antrian tidak kosong, elemen akan ditambahkan ke posisi yang ditunjukkan oleh back dan nilai back akan ditambah satu.
