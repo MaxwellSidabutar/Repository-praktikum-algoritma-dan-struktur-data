@@ -30,4 +30,10 @@ Jika antrian tidak kosong, elemen akan ditambahkan ke posisi yang ditunjukkan ol
 
 ![WhatsApp Image 2024-05-18 at 18 12 32_c64ab33a](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/ccdc92ca-2a6f-4583-be10-e7d4a74bd925)
 
+1. mengubah penerapan konsep queue pada bagian guided dari array menjadi linked list
+
+![WhatsApp Image 2024-05-18 at 18 06 53_8629509c](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/f4c50a49-f4b0-4203-8957-38de453b1a43)
+
+2. membuat konsep antri dengan menggunakan nama mahasiswa dan nim dengan menggunakan program dari nomor 1
+
 
