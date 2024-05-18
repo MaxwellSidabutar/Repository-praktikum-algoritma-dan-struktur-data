@@ -12,3 +12,6 @@ maksimalQueue adalah konstanta yang menyatakan ukuran maksimal antrian.
 front dan back adalah indeks yang digunakan untuk melacak bagian depan dan belakang antrian.
 
 queueTeller adalah array yang digunakan untuk menyimpan elemen-elemen dalam antrian.
+
+Definisi Fungsi
+isFull
