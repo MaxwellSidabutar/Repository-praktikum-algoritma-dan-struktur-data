@@ -28,5 +28,6 @@ Jika antrian kosong, elemen akan ditambahkan ke posisi pertama dan front serta b
 Jika antrian tidak kosong, elemen akan ditambahkan ke posisi yang ditunjukkan oleh back dan nilai back akan ditambah satu.
 
 
-![image](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/c57ffda3-e623-4a67-a4d6-09a9dd2e626f)
+![WhatsApp Image 2024-05-18 at 18 12 32_c64ab33a](https://github.com/MaxwellSidabutar/Repository-praktikum-algoritma-dan-struktur-data/assets/163196340/ccdc92ca-2a6f-4583-be10-e7d4a74bd925)
+
 
